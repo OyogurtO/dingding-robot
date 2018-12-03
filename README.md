@@ -1,2 +1,2 @@
 # dingding-robot
-feature 1: notify huzhichuan of to order dinner at weekday.
+feature 1: notify huzhichuan to order dinner at weekday.
