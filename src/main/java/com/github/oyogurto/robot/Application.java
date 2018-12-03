@@ -5,4 +5,7 @@ package com.github.oyogurto.robot;
  * @date 2018/01/11
  */
 public class Application {
+    public static void main(String args[]){
+        new DingFanManager().start();
+    }
 }
