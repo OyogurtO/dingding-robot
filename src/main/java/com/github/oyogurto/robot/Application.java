@@ -6,6 +6,6 @@ package com.github.oyogurto.robot;
  */
 public class Application {
     public static void main(String args[]){
-        new DingFanManager().start();
+        new DinnerNotifier().start();
     }
 }
